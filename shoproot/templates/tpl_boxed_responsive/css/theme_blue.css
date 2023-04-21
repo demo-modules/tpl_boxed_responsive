@@ -224,6 +224,10 @@ ul#categorymenu li a:hover {
 .pagination_list ul li.current {
   background-color: #0097c0;
 }
+.slider_bestseller .carousel_box .cb_title {
+	color: #0097c0;
+}
+
 /* Button-Colors */
 .cssButtonColor2 {
   border:1px solid #0097c0;

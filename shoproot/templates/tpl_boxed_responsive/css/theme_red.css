@@ -225,6 +225,9 @@ ul#categorymenu li a:hover {
 .pagination_list ul li.current {
   background-color: #c70400;
 }
+.slider_bestseller .carousel_box .cb_title {
+	color: #c70400;
+}
 
 /* categories listing & subcats */
 .subcatlist a:hover  .subcat_title {
